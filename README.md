@@ -72,7 +72,7 @@ The Financial Health Dashboard converts financial data into meaningful insights.
 
 ## Internship
 
-CodeAlpha Data Analytics Internship
+CodeAlpha Power BI Internship
 
 ## Task
 
